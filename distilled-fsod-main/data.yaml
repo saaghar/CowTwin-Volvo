@@ -1,0 +1,13 @@
+train: ../train/images # Edit these paths if needed
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['flat-light-bar', 'front-attachment', 'front-fence', 'horn', 'light-1', 'light-2', 'light-strip', 'michelin-figure', 'roof-fairing', 'warning-bar', 'warning-light']
+
+roboflow:
+  workspace: volvo-gtt
+  project: truck-equipment
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/volvo-gtt/truck-equipment/dataset/4

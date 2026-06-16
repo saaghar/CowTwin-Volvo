@@ -1,0 +1,2 @@
+#python crop_trucks.py
+python test_inference.py --num-gpus 1 --image-path inference_images/public-blurred-20-149.JPG --output-path inference_results --verbose --threshold 0.25 --nms-threshold 0.1 --config-file configs/trucks_full_dataset/vitb_shot10_trucks_full_dataset_finetune.yaml MODEL.WEIGHTS output/vitb/trucks_full_dataset_10shot/model_final.pth DE.OFFLINE_RPN_CONFIG configs/RPN/mask_rcnn_R_50_C4_1x_ovd_FSD.yaml
