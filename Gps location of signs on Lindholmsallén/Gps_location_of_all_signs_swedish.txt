@@ -1,0 +1,128 @@
+57.7078209,11.9366337,E19 Parkering
+57.7075419,11.9366264,C39 Förbud mot att stanna och parkera fordon
+57.7085469,11.9369772,E19 Parkering
+57.7075407,11.9370930,A9 Varning för farthinder
+57.7076236,11.9372440,A22 Varning för flerfärgssignal
+57.7075407,11.9371222,E19 Parkering
+57.7078002,11.9374146,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7077685,11.9376777,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7076333,11.9377849,B3 Övergångsställe
+57.7080048,11.9374328,B3 Övergångsställe
+57.7083411,11.9374353,E19 Parkering
+57.70763727,11.93778518,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.70758611,11.93762134,B4 Huvudled
+57.7077816,11.9378924,E19 Parkering
+57.7076341,11.9377867,B3 Övergångsställe
+57.7083978,11.9381351,B3 Övergångsställe
+57.7084344,11.9382130,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.70833146,11.93840064,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7081104,11.9386662,B3 Övergångsställe
+57.7083174,11.9386418,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.70858136,11.93867264,A22 Varning för flerfärgssignal
+57.70852897,11.93958571,C35 Förbud mot att parkera fordon
+57.70851999,11.93962459,E17 Återvändsväg
+57.70876050,11.93965254,D1 Påbjuden körriktning
+57.70857440,11.93973813,D2 Påbjuden körbana
+57.70911212,11.94027479,A22 Varning för flerfärgssignal
+57.70936048,11.94028468,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.70960353,11.94027645,B3 Övergångsställe
+57.70962746,11.94031983,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.70950482,11.94054268,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.70936497,11.94050978,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.70925728,11.94072066,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.70951285,11.94076552,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.70932015,11.94083097,B3 Övergångsställe
+57.70976546,11.94077206,A22 Varning för flerfärgssignal
+57.70993778,11.94083802,F36 Platsmärke
+57.71014367,11.94089176,C35 Förbud mot att parkera fordon
+57.71000284,11.94118240,D1 Påbjuden körriktning
+57.71026862,11.94116076,C35 Förbud mot att parkera fordon
+57.71006065,11.94195743,D1 Påbjuden körriktning
+57.70985340,11.94198470,E17 Återvändsväg
+57.71063398,11.94206352,E19 Parkering
+57.7105013,11.9422865,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7102936,11.9423672,A22 Varning för flerfärgssignal
+57.7100859,11.9421948,E19 Parkering
+57.71002036,11.94224589,F36 Platsmärke
+57.71049889,11.94255177,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7104042,11.9427462,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7106908,11.9423233,B3 Övergångsställe
+57.71076581,11.94224967,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71082577,11.94228393,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71083228,11.94227366,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71083947,11.94226269,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71075519,11.94223357,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71073224,11.94211264,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71073841,11.94209996,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.71074560,11.94208454,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7104398,11.9428121,E19 Parkering
+57.7114679,11.9423090,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7110404,11.9427804,E19 Parkering
+57.7110940,11.9428572,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7107172,11.9431674,F36 Platsmärke
+57.7107949,11.9432980,B3 Övergångsställe
+57.71087133,11.94314986,B1 Väjningsplikt
+57.71098336,11.94306568,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.71118173,11.94294571,B1 Väjningsplikt
+57.71118173,11.94294571,D3 Cirkulationsplats
+57.71083433,11.94349402,B1 Väjningsplikt
+57.71083433,11.94349402,D3 Cirkulationsplats
+57.71084359,11.94354957,E17 Återvändsväg
+57.7108319,11.9437156,D2 Påbjuden körbana
+57.7109919,11.9433546,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7111424,11.9432105,D1 Påbjuden körriktning
+57.7113392,11.9429473,A9 Varning för farthinder
+57.7114297,11.9426201,C35 Förbud mot att parkera fordon
+57.7115622,11.9426790,B1 Väjningsplikt
+57.7115622,11.9426790,D2 Påbjuden körbana
+57.7115949,11.9428347,B1 Väjningsplikt
+57.7117769,11.9428568,B4 Huvudled
+57.7115601,11.9429084,D1 Påbjuden körriktning
+57.7115601,11.9429084,B1 Väjningsplikt
+57.7115601,11.9429084,C1 Förbud mot infart med fordon
+57.7111081,11.9418381,A9 Varning för farthinder
+57.7113960,11.9433595,B1 Väjningsplikt
+57.7113960,11.9433595,D3 Cirkulationsplats
+57.7112230,11.9435291,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7110132,11.9436084,D1 Påbjuden körriktning
+57.7112320,11.9437680,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7109362,11.9437300,B1 Väjningsplikt
+57.7109362,11.9437300,D3 Cirkulationsplats
+57.7108904,11.9436162,F36 Platsmärke
+57.7121885,11.9433227,D2 Påbjuden körbana
+57.7111456,11.9438408,F36 Platsmärke
+57.7115641,11.9436277,F36 Platsmärke
+57.7110072,11.9439178,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7110586,11.9439513,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7112070,11.9441924,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7114796,11.9444414,D1 Påbjuden körriktning
+57.7113683,11.9444748,E17 Återvändsväg
+57.7114057,11.9446833,C35 Förbud mot att parkera fordon
+57.7114007,11.9447097,D1 Påbjuden körriktning
+57.7117195,11.9448413,A22 Varning för flerfärgssignal
+57.7119169,11.9447238,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7121951,11.9447213,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7121728,11.9446828,B3 Övergångsställe
+57.7120655,11.9449693,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7119187,11.9449521,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.7118316,11.9452275,B3 Övergångsställe
+57.7118124,11.9451850,"X3 Markeringsskärm för sidohinder, farthinder med mera"
+57.7120635,11.9451860,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.71239278,11.94526742,A22 Varning för flerfärgssignal
+57.71263574,11.94541975,F36 Platsmärke
+57.7123124,11.9460510,F36 Platsmärke
+57.71220631,11.94610184,E17 Återvändsväg
+57.71236158,11.94614942,C1 Förbud mot infart med fordon
+57.7124344,11.9460681,D1 Påbjuden körriktning
+57.71303400,11.94636591,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.71315704,11.94629337,A9 Varning för farthinder
+57.7131337,11.9465626,D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.
+57.71354143,11.94689283,F36 Platsmärke
+57.71365021,11.94683919,C1 Förbud mot infart med fordon
+57.71372877,11.94689283,B1 Väjningsplikt
+57.71384208,11.94684372,C35 Förbud mot att parkera fordon
+57.71361455,11.94676753,A29 Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt
+57.71362066,11.94700257,B3 Övergångsställe
+57.71344863,11.94733498,A22 Varning för flerfärgssignal
+57.71322947,11.94738041,C1 Förbud mot infart med fordon
+57.71330651,11.94766372,D1 Påbjuden körriktning
